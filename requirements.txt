@@ -1,0 +1,3 @@
+flask
+transformers>=4.41
+torch         # CPU wheels install automatically.
